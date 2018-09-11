@@ -1,0 +1,12 @@
+.crystals {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.individual-boxes {
+    border-style: solid;
+    color: blue;
+    height: 150px;
+    width: 150px;
+}
